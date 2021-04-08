@@ -11,4 +11,6 @@ All code for the paper is in the form of jupyter notebooks and are in the app/ d
 Configuration file for accessing our Mongo database is in the config/ directory. Access to the config file for our database will be made available on a request basis. The email address to contact
 is suppressed for blind review at this time.
 
-The directory output_r is where the output files from the data processing and experiments in the app/ notebooks are written to.
+The directory output_r/ is where the output files from the data processing and experiments in the app/ notebooks are written to.
+
+The directory data/ includes static input data such as GTFS. Link to the static data: https://vanderbilt365.sharepoint.com/:u:/s/TransitHub/EelO5lybZl1KidbOVOElhDkButXTiKqUZRWQI97NxCo6TQ?e=pccAkV
